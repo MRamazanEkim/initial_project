@@ -1,0 +1,1 @@
+This is my initial project. First time coding. Kinda nervous 
