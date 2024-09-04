@@ -12,7 +12,13 @@ h1{
     border: 2px solid  black;
 }   
 
-img{
-    display: none;
-    margin-right: 20px;
+img {
+    display: none; 
+    margin-top: 20px;
+}
+
+.special {
+    color:seagreen;
+    background-color:rgb(58, 8, 8);
+    border: 2px solid black;
 }
